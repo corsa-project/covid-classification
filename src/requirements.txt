@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+torch
+torchvision
+wandb
+tensorboard
+pydicom
+tqdm
+matplotlib
